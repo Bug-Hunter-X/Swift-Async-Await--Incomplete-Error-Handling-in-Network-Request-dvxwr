@@ -1,0 +1,1 @@
+This example demonstrates a common error in Swift's async/await programming model: insufficient error handling in asynchronous network requests. The original code catches errors but only prints a generic message.  The solution provides more detailed error handling, making the code more robust and easier to debug.
